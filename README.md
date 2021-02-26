@@ -1,16 +1,47 @@
-### Hi there 👋
+## Welcome to Duc's GitHub 👋
 
-<!--
-**minhducubc97/minhducubc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+	<a href="https://github.com/minhducubc97">
+		<img src="https://komarev.com/ghpvc/?username=minhducubc97">
+	</a>
+</p>
 
-Here are some ideas to get you started:
+### 🐱‍👤 My Open Source Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+	<tr>
+		<td>
+			<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=minhducubc97&theme=outrun&show_icons=true" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhducubc97&layout=compact&theme=outrun" />
+		</td>
+	</tr>
+</table>
+<br/>
+
+### 🤔 My Occupation:
+
+- Lead Web Developer at [UBC OpenRobotics](http://www.ubcopenrobotics.ca/)
+
+
+### <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20px"/> My Stack:
+
+```js
+var duc_nguyen = {
+  name: "Minh Duc, Nguyen",
+  education: "B.AS from University of British Columbia",
+  skills: {
+    languages: ["C#", "C++", "Javascript", "Python"],
+    frontend: ["React"],
+    backend: ["NodeJS", "Express", "Restful API", "JSON / XML"],
+    database: ["SQLServer", "MySQL", "Firebase", "MongoDB"],
+  },
+  hobbies: ["Chess", "Psychology"],
+};
+```
+
+### 📫 Connect with me: 
+[![Website](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=212121&logo=google-chrome&logoColor=blue)](https://ducnguyen.site)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/duc-nguyen-096881130/)
