@@ -11,11 +11,10 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+			<img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 		</td>
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api?username=minhducubc97&theme=outrun&show_icons=true" />
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhducubc97&layout=compact&theme=outrun" />
 		</td>
 	</tr>
 </table>
