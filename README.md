@@ -22,7 +22,8 @@
 
 ### 🤔 My Occupation:
 
-- Lead Web Developer at [UBC OpenRobotics](http://www.ubcopenrobotics.ca/)
+- Full Stack Web Developer at [Modo](https://modo.coop/).
+- Backend Developer at [Dyne](https://www.dyneapp.ca/).
 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20px"/> My Stack:
@@ -34,8 +35,8 @@ var duc_nguyen = {
   skills: {
     languages: ["C#", "C++", "Javascript", "Python"],
     frontend: ["React"],
-    backend: ["NodeJS", "Express", "Restful API", "JSON / XML"],
-    database: ["SQLServer", "MySQL", "Firebase", "MongoDB"],
+    backend: ["NodeJS", "Restful API"],
+    database: ["SQLServer", "MySQL", "MongoDB", "Firebase"],
   },
   hobbies: ["Chess", "Psychology"],
 };
