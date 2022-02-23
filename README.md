@@ -6,7 +6,7 @@
 	</a>
 </p>
 
-### 🐱‍👤 My Open Source Stats:
+### 👤 My Open Source Stats:
 
 <table>
 	<tr>
