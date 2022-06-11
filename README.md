@@ -26,7 +26,7 @@
 - Backend Developer at [Dyne](https://www.dyneapp.ca/).
 
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="20px"/> My Stack:
+### 💭 My Stack:
 
 ```js
 var duc_nguyen = {
