@@ -22,9 +22,7 @@
 
 ### 🤔 My Occupation:
 
-- Full Stack Web Developer at [Modo](https://modo.coop/).
-- Backend Developer at [Dyne](https://www.dyneapp.ca/).
-
+- Software Development Engineer at Amazon.
 
 ### 💭 My Stack:
 
