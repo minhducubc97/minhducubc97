@@ -43,5 +43,4 @@ var duc_nguyen = {
 ```
 
 ### 📫 Connect with me: 
-[![Website](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=212121&logo=google-chrome&logoColor=blue)](https://ducnguyen.site)
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/duc-nguyen-096881130/)
