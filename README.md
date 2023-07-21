@@ -30,7 +30,7 @@
 var duc_nguyen = {
   name: "Minh Duc, Nguyen",
   education: "B.AS from University of British Columbia",
-  occupation: "Software Development Engineer @ Amazon"
+  occupation: "Software Development Engineer @ Amazon",
   skills: {
     languages: ["C#", "C++", "Javascript", "Python"],
     frontend: ["React"],
