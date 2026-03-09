@@ -27,7 +27,7 @@ var duc_nguyen = {
   education: "B.AS from University of British Columbia",
   occupation: "Software Development Engineer @ Amazon",
   skills: {
-    languages: ["C#", "C++", "Javascript", "Python"],
+    languages: ["C#", "C++", "Java", "Typescript", "Javascript", "Python"],
     frontend: ["React"],
     backend: ["NodeJS", "Restful API"],
     database: ["SQLServer", "MySQL", "MongoDB", "Firebase"],
