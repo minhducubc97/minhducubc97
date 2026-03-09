@@ -6,15 +6,10 @@
 	</a>
 </p>
 
-### 👤 My Open Source Stats:
-
 <table>
 	<tr>
 		<td>
 			<img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=minhducubc97&theme=outrun&show_icons=true" />
 		</td>
 	</tr>
 </table>
