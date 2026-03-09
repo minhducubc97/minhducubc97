@@ -30,7 +30,7 @@ var duc_nguyen = {
     languages: ["C#", "C++", "Java", "Typescript", "Javascript", "Python"],
     frontend: ["React"],
     backend: ["NodeJS", "Restful API"],
-    database: ["SQLServer", "MySQL", "MongoDB", "Firebase"],
+    database: ["SQLServer", "MySQL", "MongoDB", "DynamoDB", "Firebase"],
   },
   hobbies: ["Chess", "Psychology"],
 };
